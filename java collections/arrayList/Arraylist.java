@@ -1,9 +1,20 @@
+import java.util.ArrayList;
 
-public class Arraylist<T> {
+ class AddArrayList {
 
-    public void add(String string) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'add'");
+    public static void main(String[] args) {
+        System.out.println("hello");
+        ArrayList<String> fruits = new ArrayList<>();
+        fruits.add("Apple");
+        fruits.add("Apple");
+        fruits.add("Apple");
+        fruits.add("Apple");
+        fruits.add("Mango");
+
+        System.out.println("Elements in the ArrayList:");
+
+        for (String k : fruits) {
+            System.out.println(k);
+        }
     }
-
 }

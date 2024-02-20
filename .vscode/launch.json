@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "addArrayList",
+            "request": "launch",
+            "mainClass": "addArrayList",
+            "projectName": "pattrenfile_6adcf424"
+        },
+        {
+            "type": "java",
+            "name": "AddArrayList",
+            "request": "launch",
+            "mainClass": "AddArrayList",
+            "projectName": "pattrenfile_6adcf424"
+        },
+        {
+            "type": "java",
             "name": "addArrayLIst",
             "request": "launch",
             "mainClass": "addArrayLIst",
