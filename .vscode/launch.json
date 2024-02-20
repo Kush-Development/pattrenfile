@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "addArrayLIst",
+            "request": "launch",
+            "mainClass": "addArrayLIst",
+            "projectName": "pattrenfile_6adcf424"
+        },
+        {
+            "type": "java",
+            "name": "Squre",
+            "request": "launch",
+            "mainClass": "Squre",
+            "projectName": "pattrenfile_6adcf424"
+        },
+        {
+            "type": "java",
             "name": "tringel",
             "request": "launch",
             "mainClass": "tringel",
